@@ -1,4 +1,4 @@
-# A few ways to access a timeline.
+# A few ways to access a timeline
 
 ## Method #1
 
