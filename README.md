@@ -35,7 +35,7 @@
 	You will now see the game data in 2021
 	![](./Images/game_data.png)
 	
-4. You need to set end date to July 5, 2021 or later when using Threat Hunter. Our dataset has US timestamp, expanding the end date will ensure the entire data set is searched. [Refer to an example search here](./WhatIs/threat_hunter.md)
+4. You need to set end date to July 5, 2021 or later when using Threat Hunter. Our dataset has US timestamp, expanding the end date will ensure the entire data set is searched. [Refer to an example search here](./WhatIs/threat_hunter.md#an-example-search)
 
 
 ## Other tips
