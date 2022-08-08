@@ -1,4 +1,4 @@
-##How to change color mode
+## How to change color mode
 
 1. Click on the ... on the top right corner to show a list of options
 
