@@ -2,13 +2,13 @@
 ![](./Images/ctf_logo.png)
 ## Exabeam CTF
 
-1. CTF event is hosted on a event URL - https://ctf-X-event.exalabs.io/, where X is 1~3
+1. CTF event is hosted on a event URL - https://ctf-X-event.exalabs.io/, where X is 0~3
 
 2. You will need to register an account (or your host will pre-provision for you before the event) to access the event URL to receive the challenges
 
-3. [Follow this instruction to register and access the event URL](./HowTo/registration.md) (if required)
+3. **(If required)** [Follow this instruction to register and access the event URL](./HowTo/registration.md)
 
-4. To solve the challenges, you will need access to the Advanced Analytics platform loaded with the game data - https://ctf-X-aa.exalabs.io/, where X is 1~3
+4. To solve the challenges, you will need access to the Advanced Analytics platform loaded with the game data - https://ctf-X-aa.exalabs.io/, where X is 0~3
 
 5. The login credentials will only be shared when everyone is ready to play 
 
