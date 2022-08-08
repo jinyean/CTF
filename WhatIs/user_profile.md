@@ -1,9 +1,9 @@
-##How to access a user profile page
+## How to access a user profile page
 
 On the landing page, click on user's name 
 ![](../Images/profile_link.png)
 
-##Information on user profile page
+## Information on user profile page
 
 1. Top bar - Name, Role, Department, Location, Manager, Contact details etc
 ![](../Images/profile_topbar.png)

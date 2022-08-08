@@ -1,4 +1,4 @@
-##How to access Data Insights specific to a user
+## How to access Data Insights specific to a user
 
 From a user profile page, click on the "Chart" button on the top right
 ![](../Images/user_insights.png)
@@ -13,7 +13,7 @@ For e.g, data models learnt from web activities
 ![](../Images/web_activity.png)
 
 
-##Exploring all data models
+## Exploring all data models
 
 1. Click on the ... on the top right corner to show a list of options
 	![](../Images/3dots.png)

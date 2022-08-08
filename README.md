@@ -1,4 +1,4 @@
-##Exabeam CTF
+## Exabeam CTF
 
 1. CTF event is hosted on a event URL - https://ctf-X-event.exalabs.io/, where X is 1~3
 
@@ -10,7 +10,7 @@
 
 5. The login credentials will only be shared when everyone is ready to play 
 
-##Important tips:
+## Important tips:
 
 1. You can solve most of the challenges using these main tools on Advanced Analytics platform:
 	* [Notable lists/Wacthlists](./WhatIs/notable_lists&watchlists.md)

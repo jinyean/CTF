@@ -1,4 +1,4 @@
-##How to access Threat Hunter
+## How to access Threat Hunter
 
 1. Click on the magnifying glass icon on the top right corner to reveal Threat Hunter search
 	![](../Images/magnifying_glass.png)
@@ -9,7 +9,7 @@
 3. This allows you to search for user or asset sessions using various criterias 
 	![](../Images/wizard.png)
 	
-##An example search
+## An example search
 
 Search by risk reasons
 
