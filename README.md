@@ -42,7 +42,7 @@
 
 ## Other tips
 
-1. [You can change the default dark mode to ligth mode](./HowTo/color_mode.md)
+1. [You can change the default dark mode to light mode](./HowTo/color_mode.md)
 2. Join a breakout room and ask us anything. No penalty. :)
 3. Have fun!
 
