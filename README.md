@@ -1,3 +1,5 @@
+
+![](./Images/ctf_logo.png)
 ## Exabeam CTF
 
 1. CTF event is hosted on a event URL - https://ctf-X-event.exalabs.io/, where X is 1~3
