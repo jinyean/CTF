@@ -2,7 +2,7 @@
 
 ## Method #1
 
-From a user profile page, go to "Risk Reasons" section and click on "Timeline" button 
+From a user profile page, go to "Risk Reasons" section and click on "Go To Timeline" button 
 ![](../Images/timeline_from_profile.png)
 
 ## Method #2
