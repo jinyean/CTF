@@ -1,6 +1,6 @@
 ## Registration
 
-1.	Go to event URL - https://ctf-X-event.exalabs.io/, where X is 1~3
+1.	Go to event URL - https://ctf-6-event.exalabs.io/, where X is 1~3
 
 	![](../Images/main_page.png)
 
