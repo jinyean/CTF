@@ -1,7 +1,6 @@
 ## Registration
 
-1.	Go to event URL - https://ctf-6-event.exalabs.io/, where X is 1~3
-
+1.	Go to event URL - https://ctf-6-event.exalabs.io/
 	![](../Images/main_page.png)
 
 2. Click on Register (Top Right corner)
