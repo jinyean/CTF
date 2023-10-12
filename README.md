@@ -10,7 +10,7 @@
 
 4. To solve the challenges, you will need access to the Advanced Analytics platform loaded with the game data - https://ctf-2-aa.exalabs.io/
 
-5. The login credentials will only be shared when everyone is ready to play 
+5. The login credentials are: exabeamctf@gmail.com | c4ptur3ctf!
 
 ## Important tips:
 
